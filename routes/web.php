@@ -31,3 +31,6 @@ Route::get('/artis', function(){
 Route::get('/lagu', function(){
     return view('lagu');
 });
+Route::get('/playlist', function(){
+    return view('playlist');
+});

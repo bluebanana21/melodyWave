@@ -312,9 +312,21 @@ main {
     border-radius: 10px;
 }
 
-.see-more{
+.see-more {
     align-items: center;
     display: flex;
     gap: 18px;
 }
 
+.sub-title {
+    font-size: 15px;
+    font-weight: 100;
+    color: #ffffff75;
+}
+
+.album-content {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 66px 150px;
+}
