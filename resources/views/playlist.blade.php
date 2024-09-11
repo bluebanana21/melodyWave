@@ -9,9 +9,7 @@
     <x-header></x-header>
 </head>
 
-<body
-    style="background: rgb(65,65,69);
-background: linear-gradient(184deg, rgba(65,65,69,0.9) 9%, rgba(47,48,66,1) 100%); color:white; background-repeat: no-repeat; height: 100vh">
+<body class="bg-gradient">
     <x-navbar></x-navbar>
     <main>
 

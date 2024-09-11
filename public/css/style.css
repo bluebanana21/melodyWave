@@ -330,3 +330,11 @@ main {
     flex-direction: column;
     gap: 66px 150px;
 }
+
+.bg-gradient {
+    background: rgb(65, 65, 69);
+    background: linear-gradient(184deg, rgba(65, 65, 69, 0.9) 9%, rgba(47, 48, 66, 1) 100%);
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

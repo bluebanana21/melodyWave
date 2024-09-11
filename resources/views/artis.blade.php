@@ -9,7 +9,7 @@
     <x-header></x-header>
 </head>
 
-<body style="background-color: #2F3042; color:white">
+<body class="bg-gradient ">
     <x-navbar></x-navbar>
     <main>
         <div class="header">
