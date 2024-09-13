@@ -7,7 +7,7 @@
     <title>Lagu</title>
     <x-header></x-header>
 </head>
-<body>
+<body class="bg-gradient">
     <x-navbar></x-navbar>
     <h1>Lagu</h1>
 </body>

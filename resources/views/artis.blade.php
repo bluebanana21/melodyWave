@@ -72,7 +72,6 @@
                     </li>
                 </ol>
                 <div class="see-more">
-
                     <p>see more</p>
                     <i class="fa-solid fa-list"></i>
                 </div>

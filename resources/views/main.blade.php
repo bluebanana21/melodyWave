@@ -16,12 +16,15 @@
             <h3>Melody<span style="color: rgb(45, 129, 255)">Wave</span></h3>
             <form action="">
                 <div class="search">
-                    <span><i class="fa-solid fa-magnifying-glass"></i></span>
+                    <i class="fa-solid fa-magnifying-glass"></i>
                     <input type="search" name="" id="" class="search-input" placeholder="search">
                 </div>
             </form>
 
             <div class="right-side">
+                <a href="">
+                    <i class="fa-solid fa-bell"></i>
+                </a>
                 <a href="settings.html">
                     <i class="fa-solid fa-gear"></i>
                 </a>
@@ -34,7 +37,7 @@
         <div class="content">
             <div class="left-half">
                 <div class="thumbnail">
-                    <img src="images/better-musician.png" alt="" class="thumbnail-img" id="thumbnail">
+
                     <h2 class="thumbnail-text">Nikmati hidup dengan sedikit musik</h2>
                 </div>
 
@@ -115,22 +118,19 @@
                             <ul class="song-list">
                                 <hr>
                                 <li>
-                                    <img src="images/Tyler the Creator- Flower boy.webp"
-                                        alt="Alone Album Art">
+                                    <img src="images/Tyler the Creator- Flower boy.webp" alt="Alone Album Art">
                                     <span class="song-title">Alone</span>
                                     <span class="artist">Alan Walker</span>
                                     <span class="duration">2.02</span>
                                 </li>
                                 <li>
-                                    <img src="images/Tyler the Creator- Flower boy.webp"
-                                        alt="Alone Album Art">
+                                    <img src="images/Tyler the Creator- Flower boy.webp" alt="Alone Album Art">
                                     <span class="song-title">Alone</span>
                                     <span class="artist">Alan Walker</span>
                                     <span class="duration">2.02</span>
                                 </li>
                                 <li>
-                                    <img src="images/Tyler the Creator- Flower boy.webp"
-                                        alt="Alone Album Art">
+                                    <img src="images/Tyler the Creator- Flower boy.webp" alt="Alone Album Art">
                                     <span class="song-title">Alone</span>
                                     <span class="artist">Alan Walker</span>
                                     <span class="duration">2.02</span>

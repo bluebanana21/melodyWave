@@ -116,10 +116,17 @@ main {
     --padding: 14px;
     width: max-content;
     display: flex;
+    flex-direction: row-reverse;
     align-items: center;
     padding: var(--padding);
     border-radius: 28px;
     background-color: aliceblue;
+}
+
+.search i {
+    position: absolute;
+    align-items: center;
+    margin-top: -20px;
 }
 
 .search-input {
@@ -152,25 +159,23 @@ main {
     height: auto;
 }
 
-#thumbnail {
-
-    border-radius: 30px;
-}
-
 .thumbnail {
     margin-bottom: 100px;
-}
-
-.thumbnail-img {
-    position: relative;
-    width: 40%;
-    /* for IE 6 */
+    background-image: url('../images/better-musician.png');
+    width: 80%;
+    height: 50%;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
 }
 
 .thumbnail-text {
     position: absolute;
     height: auto;
     width: 100%;
+    margin-top: 230px;
+    margin-left: 30px;
+    color: #ffffff;
 }
 
 .card-container {
@@ -332,9 +337,10 @@ main {
 }
 
 .bg-gradient {
-    background: rgb(65, 65, 69);
+    background: rgb(30, 30, 136);
     background: linear-gradient(184deg, rgba(65, 65, 69, 0.9) 9%, rgba(47, 48, 66, 1) 100%);
     color: white;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }

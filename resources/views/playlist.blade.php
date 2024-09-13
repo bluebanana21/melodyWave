@@ -12,7 +12,6 @@
 <body class="bg-gradient">
     <x-navbar></x-navbar>
     <main>
-
         {{-- Bayangkan artist ini sebagai Album --}}
         <div class="album-content">
             <div class="artist-list">
